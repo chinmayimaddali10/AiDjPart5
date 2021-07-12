@@ -1,0 +1,23 @@
+body {
+    background: cover;
+}
+
+#header {
+    background: linear-gradient(0.25turn, rgb(241, 218, 3), rgb(255, 0, 149), #0004ff);
+    color: rgb(255, 255, 255);
+    margin-top: 0%;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+#note {
+    font-size: 20px;
+}
+
+canvas {
+    background-color: aqua;
+    border-radius: 20px;
+    border-width: 20px;
+    border-color: rgb(0, 255, 0);
+    border-style: double;
+}
